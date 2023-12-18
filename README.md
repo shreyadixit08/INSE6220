@@ -1,1 +1,1 @@
-# INSE6220
+# INSE6220 : Advanced Statistical Approaches to Quality
